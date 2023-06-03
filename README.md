@@ -11,15 +11,13 @@ Hi, I'm Elias, a systems engineering student.💻📚<br>
 ## Skills
 [![Java](https://user-images.githubusercontent.com/99308568/227758064-0309324a-9333-4886-a395-5f77c1a862eb.gif)][1]
 [![Kotlin](https://user-images.githubusercontent.com/99308568/229709192-f8b94e31-3ded-4e26-80ab-c74542335a40.png)][2]
-[![Spring Boot](https://user-images.githubusercontent.com/99308568/229721267-81d28f05-7a8f-464e-beed-ef092d5bc873.png)][3]
-[![Android Studio](https://user-images.githubusercontent.com/99308568/229709727-5edc1230-8659-4b33-ae45-ccd8bea20b62.png)][4]
-[![libGDX](https://user-images.githubusercontent.com/99308568/227757825-3ed6f9ec-1625-4b9d-a85c-6a3988397377.png)][5]
+[![Android Studio](https://user-images.githubusercontent.com/99308568/229709727-5edc1230-8659-4b33-ae45-ccd8bea20b62.png)][3]
+[![libGDX](https://user-images.githubusercontent.com/99308568/227757825-3ed6f9ec-1625-4b9d-a85c-6a3988397377.png)][4]
 
 [1]: https://www.oracle.com/java/
 [2]: https://kotlinlang.org/
-[3]: https://spring.io/
-[4]: https://developer.android.com/studio/
-[5]: https://libgdx.com/
+[3]: https://developer.android.com/studio/
+[4]: https://libgdx.com/
 
 ## You can find me at
 [![YouTube](https://user-images.githubusercontent.com/99308568/227758441-2856bc5f-aee5-4030-9ec3-15382a7e48d5.png)][9] &nbsp;
