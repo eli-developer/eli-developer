@@ -22,11 +22,9 @@ Hi, I'm Elias, a systems engineering student.💻📚<br>
 ## You can find me at
 [![YouTube](https://user-images.githubusercontent.com/99308568/227758441-2856bc5f-aee5-4030-9ec3-15382a7e48d5.png)][9] &nbsp;
 [![Blog](https://user-images.githubusercontent.com/99308568/227759270-b401a2e8-eb03-4fe1-846c-ebc47fd72aac.png)][10] &nbsp;
-[![Instagram)](https://user-images.githubusercontent.com/99308568/227758683-f2167e2f-aec4-44f6-9c61-aeebbb45510f.png)][11] &nbsp;
-[![Google Play](https://user-images.githubusercontent.com/99308568/227759102-d8b93bc8-6801-4324-890e-2f70003b049b.png)][12] &nbsp;
+[![Google Play](https://user-images.githubusercontent.com/99308568/227759102-d8b93bc8-6801-4324-890e-2f70003b049b.png)][11] &nbsp;
 
 [9]: https://www.youtube.com/@elideveloper
 [10]: https://elideveloper.blogspot.com/
-[11]: https://www.instagram.com/eli.developer/
-[12]: https://play.google.com/store/apps/dev?id=5194571994277702116
+[11]: https://play.google.com/store/apps/dev?id=5194571994277702116
 
