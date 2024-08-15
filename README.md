@@ -4,9 +4,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 Hi, I'm Eli, a systems engineering student.💻📚<br>
 
-* 🌎I live in the Dominican Republic, Santo Domingo. :dominican_republic:<br>
 * 😎I develop mobile applications and video games independently.<br>
-* 📂This is my portfolio: https://eli-developer.github.io/portfolio/
 
 ## Skills
 [![Java](https://user-images.githubusercontent.com/99308568/227758064-0309324a-9333-4886-a395-5f77c1a862eb.gif)][1]
